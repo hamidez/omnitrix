@@ -1,0 +1,1 @@
+esp32s3.menu.PartitionScheme.huge_app.upload.maximum_size=15728640
